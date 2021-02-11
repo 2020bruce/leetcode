@@ -16,8 +16,8 @@ interface Person{
 }
 
 class Home{
-	public void eatBeef(Person person) {
-		person.eat();
+	public void eatBeef(Person p) {
+		p.eat();
 	}
 }
 
